@@ -1,0 +1,78 @@
+body { 
+    background-color: rgb(206, 198, 198);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    line-height: 160%;
+    font-size: 15px;
+}
+
+h2 {
+    border-bottom: 2px solid rgb(10, 1, 51);
+    font-size: 17px;
+    padding-bottom: 5px;
+    color: rgb(5, 0, 14);
+}
+
+
+h3 {
+    font-size: 35px;  
+}
+
+.jack {
+    border-radius: 100%;
+    border: 5px solid rgb(33, 1, 59);   
+}
+
+.contenido {
+    height: 100%;
+    width: 80%;  
+}
+
+.menu {
+    background-color:rgb(219, 219, 217);
+    height: 100%;
+    width: 25%;
+    padding: 15px 15px;
+    margin: 20px 20px 40px 20px;
+    float: left;  
+}
+
+.desarrollo {
+    background-color: rgb(139, 136, 151);
+    width: 60%;
+    height: 100%;
+    padding: 15px 15px;
+    margin: 10px 10px;
+    float: right;   
+}
+
+.Acerca_de_mi {
+    background-color: rgb(176, 175, 185);
+    height: 70%;
+    padding: 15px 15px;
+    margin: 20px 30px;
+    border: 3px solid rgb(50, 3, 110);
+    border-radius: 10px;   
+}
+
+.Mi_experiencia {
+    background-color: rgb(176, 175, 185);
+    height: 70%;
+    padding: 15px 15px;
+    margin: 20px 30px;
+    border: 3px solid rgb(50, 3, 110);
+    border-radius: 10px; 
+}
+
+.habilidades {
+    background-color: rgb(231, 232, 238);
+    height: 70%;
+    padding: 10px 10px;
+    margin: 30px 30px; 
+    border: 3px solid rgb(238, 238, 235);
+    border-radius: 10px;
+}
+
+
+
+
